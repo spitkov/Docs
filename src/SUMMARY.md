@@ -1,4 +1,4 @@
 # Summary
 
-# Primary Section
-- [test](test.md)
+# Firka
+- [Ipa Telepítés](Firka/ipa_telepites.md)
