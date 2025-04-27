@@ -1,0 +1,12 @@
+[book]
+authors = ["QwIT"]
+language = "hu"
+multilingual = false
+src = "src"
+title = "QwIT Docs"
+
+[build]
+build-dir = "public"
+
+[output.html]
+cname="docs.qwit.org"
