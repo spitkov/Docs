@@ -70,7 +70,7 @@ Három lehetőséged van a Firka telepítésére:
 - Próbáld meg az egyik `Portal - XXXXX` opciót
 - Ha "*Integritás nem ellenőrizhető*" hibát kapsz, próbáld a többi lehetőséget
 - Vannak ESign only certificatek, de ez minket nem zavar mivel ESign-t akarunk telepíteni, csak késöbb lesz másab
-- Ha egyik sem működik, feketelistán lehetsz - írj a Firka Discord szerverbe segítségért, vagy olvasd el a "[Revoke Fix Guide](https://github.com/TheAppleUser1/Revoke-Fixing-Guide)"-ot.
+- Ha egyik sem működik, feketelistán lehetsz - írj a Firka Discord szerverbe segítségért, vagy olvasd el a "[Revoke Fix Guide](https://docs.qwit.org/Firka/revoke_fix.html)"-ot.
 - Menj a beállitásokba utána Általános az alatt VPN és eszközfelügyelet ott keresd meg a Profilt amit letöltöttél menjn rá és azon belül kattints a megbizásra utána megbizás (vagy megbizás és újraindítás)
 
 ### 4. ESign telepítése
